@@ -1,2 +1,3 @@
 # titanic
-My first data analysis
+My first data analysis.
+Practicing my data science knowledge.
